@@ -1,2 +1,3 @@
 # DSA_in_Java
-Dsa in Java
+It includes array questions from leet code hard and medium
+
