@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class amazonQ1 {
-      public static void main(String[] args) {
+      public static void main(String[] args) (
         int[] arr = {1, 3, 2, 0};
         cyclic(arr);
         System.out.println(Arrays.toString(arr)); 
